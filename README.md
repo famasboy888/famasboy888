@@ -54,7 +54,10 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/famasboy888/famasboy888/assets/23441168/44604a01-60c3-43dd-be46-4b79a8a7d969" title="JSP" alt="JSP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/famasboy888/famasboy888/assets/23441168/48d1e80f-86a1-42a8-8603-0c67c108ebe2" title="Thymeleaf" alt="Thymeleaf" width="40" height="40"/>&nbsp;  
 </div>
+
+<br/>
 
 ### Back-end
 
