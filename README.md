@@ -43,9 +43,11 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
-<u>AWS<u/>
+<br/>
+<u>Front-end<u/>
 
 <div>
-  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 </div>
