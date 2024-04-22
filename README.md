@@ -108,5 +108,5 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
 
 <div>
   <img src="https://github.com/famasboy888/famasboy888/assets/23441168/3f3305b6-68cb-4b46-824a-14e5f62191c6" title="AWS CCP" alt="AWS CCP" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/famasboy888/famasboy888/assets/23441168/ce0815de-9544-45ea-807b-afdc6f6a37f2" title="JLPT N5" alt="JLPT N5" width="40" height="40"/>&nbsp;
 </div>
