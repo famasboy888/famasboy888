@@ -40,4 +40,12 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/openstack/openstack-original.svg" title="OpenStack" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+</div>
+
+<u>AWS<u/>
+
+<div>
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  
 </div>
