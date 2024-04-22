@@ -23,4 +23,4 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
 
 - 👨‍🎓: Currently moving to a DevOps/Cloud Engineering path.
 
-- ⚙️: In my free time, I learn and enhance my skills in learning DevOps related tools.
+- ⚙️: In my free time, I learn and enhance my skills in learning DevOps and Automation related tools.
