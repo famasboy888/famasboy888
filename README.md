@@ -90,7 +90,7 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity3D" alt="Unity3D" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity3D" alt="Unity3D" width="80" height="80"/>&nbsp;
 </div>
 
 <div>
