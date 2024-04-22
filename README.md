@@ -29,7 +29,7 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
 
 ### 🔨 Languages and Tools :
 
-<u>DevOps<u/>
+### DevOps
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
@@ -44,7 +44,18 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
 </div>
 
 <br/>
-<u>Front-end<u/>
+### Front-end
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/famasboy888/famasboy888/assets/23441168/44604a01-60c3-43dd-be46-4b79a8a7d969" title="JSP" alt="JSP" width="40" height="40"/>&nbsp;
+</div>
+
+### Back-end
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
