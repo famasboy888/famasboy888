@@ -31,7 +31,7 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
 
 ### DevOps
 
-<div  align="left">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;
@@ -41,9 +41,6 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/openstack/openstack-original.svg" title="OpenStack" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-</div>
-<div align="right">
-  <img src="https://github.com/famasboy888/famasboy888/assets/23441168/3f3305b6-68cb-4b46-824a-14e5f62191c6" title="Kubernetes" alt="Kubernetes" width="80" height="80"/>
 </div>
 
 <br/>
@@ -103,4 +100,13 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🏆 Certificates :
+
+<div>
+  <img src="https://github.com/famasboy888/famasboy888/assets/23441168/3f3305b6-68cb-4b46-824a-14e5f62191c6" title="AWS CCP" alt="AWS CCP" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
