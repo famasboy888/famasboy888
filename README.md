@@ -33,7 +33,7 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
 
 <div>
   <div align="right">
-    <img src="https://github.com/famasboy888/famasboy888/assets/23441168/3f3305b6-68cb-4b46-824a-14e5f62191c6" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
+    <img src="https://github.com/famasboy888/famasboy888/assets/23441168/3f3305b6-68cb-4b46-824a-14e5f62191c6" title="Kubernetes" alt="Kubernetes" width="80" height="80"/>
   </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp;
