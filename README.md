@@ -44,6 +44,7 @@ I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="
 </div>
 
 <br/>
+
 ### Front-end
 
 <div>
