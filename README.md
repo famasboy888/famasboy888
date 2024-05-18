@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="20%" height="20%" src="https://github.com/famasboy888/famasboy888/assets/23441168/c498acd1-d33b-4c52-94f4-a04eafec8c5a">
+  <img width="20%" height="20%" src="https://github.com/famasboy888/famasboy888/assets/23441168/ef5fc1f8-da15-47eb-8629-5c8664c4954a">
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 ### :black_nib: About Me :
 
-I am a Mid-Level Application Software Engineer <img width="5%" height="5%" src="https://github.com/famasboy888/famasboy888/assets/23441168/280a11e2-14fb-4bd6-b740-c3adebab400b" width="30"> from Philippines.
+I am a Mid-Level Application Software Engineer from Philippines.
 
 - ⚡  Contributing to frontend and backend for building web applications.
 
