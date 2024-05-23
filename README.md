@@ -83,6 +83,15 @@ I am a Mid-Level Application Software Engineer from Philippines.
 
 <br/>
 
+### Testing
+
+<div>
+  <img src="https://github.com/famasboy888/selenium_automated_testing/assets/23441168/425c9705-b78f-4825-9607-d18f09b3f451" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/famasboy888/famasboy888/assets/23441168/51242ffd-e834-44de-8358-3c8397a271e1" title="JUnit" alt="JUnit" width="60" height="40"/>&nbsp;
+</div>
+
+<br/>
+
 ### Others
 
 <div>
